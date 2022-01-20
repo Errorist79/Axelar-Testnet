@@ -6,8 +6,8 @@ Axelar testnet için türkçe rehber.
 * [1. Gereksinimler](#1-gereksinimler)
 * [2. Kurulum Adımları](#2-kurulum-adımları)
 * [3. Egzersiz 4](#3-egzersiz-4)
-    * [3.1 Varlıkları Terra testnet'ten EVM uyumlu zincirlere gönderme](#31-Varlıkları-Terra-testnet'ten-EVM-uyumlu-Zincirlere-gönderme)
-    * [3.2 Varlıkları Terra'ya geri gönder](#32-Varlıkları-Terra'ya-geri-gönder)
+    * [3.1 Varlıkları Terra testnet'ten EVM uyumlu zincirlere gönderme](#31-varlıkları-terra-testnetten-eVM-uyumlu-zincirlere-gönderme)
+    * [3.2 Varlıkları Terra'ya geri gönder](#32-varlıkları-terraya-geri-gönder)
 
 ## 1. Gereksinimler
 
@@ -227,7 +227,7 @@ Axelar docker container'ını açalım, önce axelard kurulu terminale geçelim 
 docker exec -it axelar-core sh
 ```
 
-## 3.1 Varlıkları Terra testnet'ten EVM uyumlu Zincirlere gönderme
+## 3.1 Varlıkları Terra testnetten EVM uyumlu Zincirlere gönderme
 ```
 axelard tx axelarnet link [evm ağı] [alııcı adres] uusd --from [axelar-anahtar-adı]
 ```
@@ -336,7 +336,7 @@ Artık Metamask'ı açabilir, "Varlıklar"ı, ardından "Tokenleri içe aktar"ı
 
 
 
-## 3.2 Varlıkları Terra'ya geri gönder
+## 3.2 Varlıkları Terraya geri gönder
 
 
 ### 3.1.7 Evm uyumlu zincirde bir para yatırma adresi oluşturun
