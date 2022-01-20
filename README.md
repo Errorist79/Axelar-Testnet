@@ -4,7 +4,7 @@ Axelar testnet için türkçe rehber.
 ## <a name='İçerik'></a>İçerik
 
 * [1. Gereksinimler](#1-gereksinimler)
-* [2. Kurulum Adımları](#2-kurulum)
+* [2. Kurulum Adımları](#2-kurulum-adımları)
 * [3. Egzersiz 4](#3-egzersiz-4)
 
 ## 1. Gereksinimler
