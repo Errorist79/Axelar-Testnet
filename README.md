@@ -18,15 +18,15 @@ Axelar testnet için türkçe rehber.
 
 **Yardımcı** linker:
 
-[Axelar Musluğu](http://faucet.testnet.axelar.dev/)
+- [Axelar Musluğu](http://faucet.testnet.axelar.dev/)
 
-[Axelar core](https://hub.docker.com/repository/docker/axelarnet/axelar-core)
+- [Axelar core](https://hub.docker.com/repository/docker/axelarnet/axelar-core)
 
-[Tofnd](https://hub.docker.com/repository/docker/axelarnet/tofnd)
+- [Tofnd](https://hub.docker.com/repository/docker/axelarnet/tofnd)
 
-[Go](https://golang.org/doc/install)
+- [Go](https://golang.org/doc/install)
 
-[Axelar gerekli adresler ve sürümler](https://docs.axelar.dev/#/resources/testnet-releases)
+- [Axelar gerekli adresler ve sürümler](https://docs.axelar.dev/#/resources/testnet-releases)
 
 ## 2. Kurulum Adımları
 
