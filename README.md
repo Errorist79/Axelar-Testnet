@@ -383,9 +383,8 @@ işlem süresi yaklaşık 1 dakikadır. 
 
 
 ### 3.1 Terrad kurulu olan terminale geri dönün, ust aldığınızı doğrulayın
-```
+
 {terra-address} yukarıda kullandığınız adrestir. 
-```
 ```
 terrad q bank balances {terra-address}
 ```
